@@ -1,0 +1,26 @@
+﻿a = acceleration = m/s2
+d = distance = m
+E = energy = J
+F = force
+f = frequency
+I = rotational inertia
+K = kinetic energy
+k = spring constant
+L = angular momentum
+ℓ = length
+m = mass
+P = power
+p = momentum
+r = radius or separation
+T = period
+t = time
+U = potential energy
+v = speed
+W = work done on a system
+x = position
+y = height
+α = angular acceleration
+μ = coefficient of friction
+θ = angle
+τ = torque
+ω = angular speed

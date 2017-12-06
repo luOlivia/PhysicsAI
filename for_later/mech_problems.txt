@@ -1,0 +1,20 @@
+An airplane accelerates down a runway at 3.20 m/s2 for 32.8 s until is finally lifts off the ground. Determine the distance traveled before takeoff.
+A car starts from rest and accelerates uniformly over a time of 5.21 seconds for a distance of 110 m. Determine the acceleration of the car.
+Upton Chuck is riding the Giant Drop at Great America. If Upton free falls for 2.60 seconds, what will be his final velocity and how far will he fall?
+A race car accelerates uniformly from 18.5 m/s to 46.1 m/s in 2.47 seconds. Determine the acceleration of the car and the distance traveled.
+A feather is dropped on the moon from a height of 1.40 meters. The acceleration of gravity on the moon is 1.67 m/s2. Determine the time for the feather to fall to the surface of the moon.
+Rocket-powered sleds are used to test the human response to acceleration. If a rocket-powered sled is accelerated to a speed of 444 m/s in 1.83 seconds, then what is the acceleration and what is the distance that the sled travels?
+A bike accelerates uniformly from rest to a speed of 7.10 m/s over a distance of 35.4 m. Determine the acceleration of the bike.
+An engineer is designing the runway for an airport. Of the planes that will use the airport, the lowest acceleration rate is likely to be 3 m/s2. The takeoff speed for this plane will be 65 m/s. Assuming this minimum acceleration, what is the minimum allowed length for the runway?
+A car traveling at 22.4 m/s skids to a stop in 2.55 s. Determine the skidding distance of the car (assume uniform acceleration).
+A kangaroo is capable of jumping to a height of 2.62 m. Determine the takeoff speed of the kangaroo.
+If Michael Jordan has a vertical leap of 1.29 m, then what is his takeoff speed and his hang time (total time to move upwards to the peak and then return to the ground)?
+A bullet leaves a rifle with a muzzle velocity of 521 m/s. While accelerating through the barrel of the rifle, the bullet moves a distance of 0.840 m. Determine the acceleration of the bullet (assume a uniform acceleration).
+A baseball is popped straight up into the air and has a hang-time of 6.25 s. Determine the height to which the ball rises before it reaches its peak. (Hint: the time to rise to the peak is one-half the total hang-time.)
+The observation deck of tall skyscraper 370 m above the street. Determine the time required for a penny to free fall from the deck to the street below.
+A bullet is moving at a speed of 367 m/s when it embeds into a lump of moist clay. The bullet penetrates for a distance of 0.0621 m. Determine the acceleration of the bullet while moving into the clay. (Assume a uniform acceleration.)
+A stone is dropped into a deep well and is heard to hit the water 3.41 s after being dropped. Determine the depth of the well.
+It was once recorded that a Jaguar left skid marks that were 290 m in length. Assuming that the Jaguar skidded to a stop with a constant acceleration of -3.90 m/s2, determine the speed of the Jaguar before it began to skid.
+A plane has a takeoff speed of 88.3 m/s and requires 1365 m to reach that speed. Determine the acceleration of the plane and the time required to reach this speed.
+A dragster accelerates to a speed of 112 m/s over a distance of 398 m. Determine the acceleration (assume uniform) of the dragster.
+With what speed in miles/hr (1 m/s = 2.23 mi/hr) must an object be thrown to reach a height of 91.5 m (equivalent to one football field)? Assume negligible air resistance.
